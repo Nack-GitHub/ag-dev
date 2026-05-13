@@ -3,9 +3,9 @@
 > AI Agent templates with Skills, Agents, and Workflows — now with Coordinator Mode, Persistent Memory, and Context Compression
 
 <div  align="center">
-    <a href="https://unikorn.vn/p/ag-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/ag-kit?theme=dark" alt="AG Kit - Nổi bật trên Unikorn.vn" style="width: 210px; height: 54px;" width="210" height="54" /></a>
-    <a href="https://unikorn.vn/p/ag-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/ag-kit/rank?theme=dark&type=daily" alt="AG Kit - Hàng ngày" style="width: 250px; height: 64px;" width="250" height="64" /></a>
-    <a href="https://launch.j2team.dev/products/ag-kit" target="_blank"><img src="https://launch.j2team.dev/badge/ag-kit/dark" alt="AG Kit on J2TEAM Launch" width="250" height="54" /></a>
+    <a href="https://unikorn.vn/p/antigravity-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit?theme=dark" alt="AG Kit - Nổi bật trên Unikorn.vn" style="width: 210px; height: 54px;" width="210" height="54" /></a>
+    <a href="https://unikorn.vn/p/antigravity-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit/rank?theme=dark&type=daily" alt="AG Kit - Hàng ngày" style="width: 250px; height: 64px;" width="250" height="64" /></a>
+    <a href="https://launch.j2team.dev/products/antigravity-kit" target="_blank"><img src="https://launch.j2team.dev/badge/antigravity-kit/dark" alt="AG Kit on J2TEAM Launch" width="250" height="54" /></a>
 </div>
 
 ## 🚀 What's New in 2026.5.13
