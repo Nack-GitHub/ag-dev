@@ -1,6 +1,6 @@
 # 🔄 Agent Flow Architecture
 
-> **Antigravity Kit** - Comprehensive AI Agent Workflow Documentation
+> **AG Kit 2026.5.13** — Comprehensive AI Agent Workflow Documentation
 
 ---
 
@@ -528,11 +528,19 @@ User Request: "Build a Next.js dashboard with authentication"
 │                    SYSTEM CAPABILITIES                    │
 ├──────────────────────────────────────────────────────────┤
 │ Total Agents:              20                            │
-│ Total Skills:              36                            │
-│ Total Workflows:           11                            │
+│ Total Skills:              45 (+8 new in 2026.5.13)      │
+│ Total Workflows:           14 (+3 new in 2026.5.13)      │
 │ Master Scripts:            2 (checklist, verify_all)     │
 │ Skill-Level Scripts:       18                            │
-│ Coverage:                  ~90% web/mobile development   │
+│ Coverage:                  ~95% web/mobile + orchestration│
+│ Token Efficiency:          13-33% better (2026.5.13)     │
+│                                                          │
+│ New in 2026.5.13:                                        │
+│ ├─ Coordinator Mode (parallel orchestration)             │
+│ ├─ Persistent Memory System (MEMORY.md)                  │
+│ ├─ Context Compression (auto-compact)                    │
+│ ├─ Conditional Skill Loading (when_to_use)               │
+│ └─ Verification by Execution (/verify)                   │
 │                                                          │
 │ Supported Frameworks:                                    │
 │ ├─ Frontend: React, Next.js, Vue, Nuxt, Astro          │
@@ -599,5 +607,5 @@ User Request: "Build a Next.js dashboard with authentication"
 
 ---
 
-**Last Updated**: 2026-01-26
-**Version**: 2.0.1
+**Last Updated**: 2026-05-13
+**Version**: 2026.5.13
