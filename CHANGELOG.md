@@ -76,7 +76,7 @@ No unreleased changes.
 ## [2026.5.25] - 2026-05-25
 
 ### Added
-- **Vietnamese Documentation**: Created [README-VI.md](file:///Users/vudovn/Desktop/project/ag-kit/README-VI.md) providing a high-quality, professional Vietnamese translation of the refactored project guide.
+- **Vietnamese Documentation**: Created [README-VI.md](file:///Users/nack/Desktop/project/ag-kit/README-VI.md) providing a high-quality, professional Vietnamese translation of the refactored project guide.
 
 ### Changed
 - **Folder Structure Normalization**: Successfully migrated the workspace from `.agent` to `.agents` folder naming across all documentation, architecture guides, and CLI configurations.
@@ -184,10 +184,10 @@ No unreleased changes.
 - CLI tool for easy installation and updates.
 - Comprehensive documentation and architecture guide.
 
-[Unreleased]: https://github.com/vudovn/ag-kit/compare/2026.5.25...HEAD
-[2026.5.25]: https://github.com/vudovn/ag-kit/compare/2026.5.13...2026.5.25
-[2026.5.13]: https://github.com/vudovn/ag-kit/compare/v3.0.0...2026.5.13
-[3.0.0]: https://github.com/vudovn/ag-kit/compare/v2.0.2...v3.0.0
-[2.0.2]: https://github.com/vudovn/ag-kit/compare/v2.0.1...v2.0.2
-[2.0.1]: https://github.com/vudovn/ag-kit/compare/v2.0.0...v2.0.1
-[2.0.0]: https://github.com/vudovn/ag-kit/releases/tag/v2.0.0
+[Unreleased]: https://github.com/Nack-GitHub/ag-dev/compare/2026.5.25...HEAD
+[2026.5.25]: https://github.com/Nack-GitHub/ag-dev/compare/2026.5.13...2026.5.25
+[2026.5.13]: https://github.com/Nack-GitHub/ag-dev/compare/v3.0.0...2026.5.13
+[3.0.0]: https://github.com/Nack-GitHub/ag-dev/compare/v2.0.2...v3.0.0
+[2.0.2]: https://github.com/Nack-GitHub/ag-dev/compare/v2.0.1...v2.0.2
+[2.0.1]: https://github.com/Nack-GitHub/ag-dev/compare/v2.0.0...v2.0.1
+[2.0.0]: https://github.com/Nack-GitHub/ag-dev/releases/tag/v2.0.0

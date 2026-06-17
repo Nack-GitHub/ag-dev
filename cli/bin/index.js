@@ -16,7 +16,7 @@ const pkg = await fse.readJson(path.join(__dirname, "..", "package.json"));
 // ============================================================================
 // CONSTANTS
 // ============================================================================
-const REPO = "github:vudovn/ag-kit";
+const REPO = "github:Nack-GitHub/ag-dev";
 const AGENT_FOLDER = ".agents";
 const TEMP_FOLDER = ".temp_ag_kit";
 
@@ -70,7 +70,7 @@ const checkUpdate = async (quiet = false) => {
         const controller = new AbortController();
         const timeoutId = setTimeout(() => controller.abort(), 1500);
 
-        const res = await fetch("https://registry.npmjs.org/@vudovn/ag-kit/latest", {
+        const res = await fetch("https://registry.npmjs.org/@nack/ag-dev/latest", {
             signal: controller.signal,
         });
         clearTimeout(timeoutId);
@@ -93,7 +93,7 @@ const showUpdateNotification = (latestVersion) => {
         chalk.yellow(`
   ┌────────────────────────────────────────────────────────┐
   │  Update available: ${chalk.red(pkg.version)} → ${chalk.green(latestVersion)}               │
-  │  Run: ${chalk.cyan("npm install -g @vudovn/ag-kit")}                 │
+  │  Run: ${chalk.cyan("npm install -g @nack/ag-dev")}                 │
   └────────────────────────────────────────────────────────┘
   `)
     );

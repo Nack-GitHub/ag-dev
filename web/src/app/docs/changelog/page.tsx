@@ -80,7 +80,7 @@ export default function ChangelogPage() {
             {/* Footer link */}
             <div className="mt-12 pt-8 border-t border-zinc-200 dark:border-zinc-800">
                 <a
-                    href="https://github.com/vudovn/ag-kit/releases"
+                    href="https://github.com/Nack-GitHub/ag-dev/releases"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 underline underline-offset-4"

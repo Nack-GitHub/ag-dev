@@ -1,25 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vudovn/ag-kit/main/web/public/images/logo.png" width="128" height="128" alt="AGKIT">
-</p>
-
-<h1 align="center">AG KIT</h1>
-
-<p align="center">
-    AI Agent templates with Skills, Agents, and Workflows — featuring Coordinator Mode, Persistent Memory, and Context Compression.
-</p>
-
-<div align="center">
-    <a href="https://unikorn.vn/p/antigravity-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit?theme=dark" alt="AG Kit - Nổi bật trên Unikorn.vn" style="width: 210px; height: 54px;" width="210" height="54" /></a>
-    <a href="https://trendshift.io/repositories/21490" target="_blank"><img src="https://trendshift.io/api/badge/repositories/21490" alt="vudovn%2Fantigravity-kit | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-    <a href="https://launch.j2team.dev/products/antigravity-kit" target="_blank"><img src="https://launch.j2team.dev/badge/antigravity-kit/dark" alt="AG Kit on J2TEAM Launch" width="250" height="54" /></a>
-</div>
-
-<p align="center">
-  <strong>🇻🇳 <a href="./README-VI.md">Tiếng Việt (Vietnamese Version)</a></strong>
-</p>
-
----
-
 ## ⚡ Quick Start
 
 Install and initialize AG Kit to inject the `.agents/` configuration folder directly into your local project.
@@ -27,13 +5,13 @@ Install and initialize AG Kit to inject the `.agents/` configuration folder dire
 ### Method 1: On-demand Execution (Recommended)
 
 ```bash
-npx @vudovn/ag-kit init
+npx @nack/ag-dev init
 ```
 
 ### Method 2: Global Installation
 
 ```bash
-npm install -g @vudovn/ag-kit
+npm install -g @nack/ag-dev
 ag-kit init
 ```
 
@@ -46,7 +24,7 @@ If you work across multiple repositories and want to avoid duplicating the `.age
 1. **Install centrally** (e.g., to a global folder like `~/.ag-kit`):
    ```bash
    mkdir -p ~/.ag-kit && cd ~/.ag-kit
-   npx @vudovn/ag-kit init
+   npx @nack/ag-dev init
    ```
 
 2. **Link it locally** from inside your project root:
@@ -139,20 +117,3 @@ AG Kit is built on production-tested agentic design patterns designed to reduce 
 AG Kit represents an original implementation of markdown-based prompt and rules engineering. It was built by analyzing production agent patterns to distill core agentic behaviors:
 *   *No proprietary code or files were copied.*
 *   All templates, rules, and scripts are rewritten as original, open-source implementations under the MIT license.
-
----
-
-## ☕ Support the Project
-
-If AG Kit has made your AI programming sessions more productive, consider supporting the project:
-
-<a href="https://buymeacoffee.com/vudovn" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
-
-**Vietnamese Bank (MBBank QR):**<br/>
-<img src="https://img.vietqr.io/image/mbbank-0779440918-compact.jpg" alt="Donate QR" width="140" style="border-radius: 8px; margin-top: 10px;" />
-
----
-
-## 📄 License
-
-Released under the [MIT License](LICENSE) © [Vudovn](https://github.com/vudovn).

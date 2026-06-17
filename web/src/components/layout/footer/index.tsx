@@ -52,7 +52,7 @@ export default function Footer() {
                                 </Link>
                             </li>
                             <li>
-                                <a href="https://github.com/vudovn/ag-kit" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
+                                <a href="https://github.com/Nack-GitHub/ag-dev" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
                                     {f.examples}
                                 </a>
                             </li>
@@ -69,22 +69,22 @@ export default function Footer() {
                         <h3 className="font-semibold text-zinc-900 dark:text-zinc-50 mb-4">{f.community}</h3>
                         <ul className="space-y-3 text-sm">
                             <li>
-                                <a href="https://github.com/vudovn/ag-kit" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
+                                <a href="https://github.com/Nack-GitHub/ag-dev" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
                                     {f.github}
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/vudovn/ag-kit/issues" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
+                                <a href="https://github.com/Nack-GitHub/ag-dev/issues" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
                                     {f.issues}
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/vudovn/ag-kit/discussions" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
+                                <a href="https://github.com/Nack-GitHub/ag-dev/discussions" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
                                     {f.discussions}
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/vudovn/ag-kit/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
+                                <a href="https://github.com/Nack-GitHub/ag-dev/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
                                     {f.contributing}
                                 </a>
                             </li>
@@ -96,7 +96,7 @@ export default function Footer() {
                         <h3 className="font-semibold text-zinc-900 dark:text-zinc-50 mb-4">{f.legal}</h3>
                         <ul className="space-y-3 text-sm">
                             <li>
-                                <a href="https://github.com/vudovn/ag-kit/blob/main/LICENSE" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
+                                <a href="https://github.com/Nack-GitHub/ag-dev/blob/main/LICENSE" target="_blank" rel="noopener noreferrer" className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">
                                     {f.license}
                                 </a>
                             </li>
@@ -120,18 +120,18 @@ export default function Footer() {
                     <p className="text-sm text-zinc-600 dark:text-zinc-400">
                         © {new Date().getFullYear()} AG Kit by{" "}
                         <a
-                            href="https://github.com/vudovn"
+                            href="https://github.com/nack"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="font-medium text-zinc-900 dark:text-zinc-50 hover:underline">
-                            @vudovn
+                            @nack
                         </a>. {f.rights}
                     </p>
 
                     {/* Social Links */}
                     <div className="flex items-center gap-4">
                         <a
-                            href="https://github.com/vudovn/ag-kit"
+                            href="https://github.com/Nack-GitHub/ag-dev"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors"
@@ -142,7 +142,7 @@ export default function Footer() {
                             </svg>
                         </a>
                         <a
-                            href="https://facebook.com/vudovn.354"
+                            href="https://facebook.com/nack.354"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors"

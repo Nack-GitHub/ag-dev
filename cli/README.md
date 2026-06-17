@@ -1,17 +1,17 @@
 # AG-Kit CLI
 
-CLI tool to install [Antigravity Kit](https://github.com/vudovn/ag-kit) - AI Agent templates with Skills, Agents, and Workflows.
+CLI tool to install [Antigravity Kit](https://github.com/Nack-GitHub/ag-dev) - AI Agent templates with Skills, Agents, and Workflows.
 
 ## Installation
 
 ```bash
-npx @vudovn/ag-kit init
+npx @nack/ag-dev init
 ```
 
 Or install globally:
 
 ```bash
-npm install -g @vudovn/ag-kit
+npm install -g @nack/ag-dev
 ag-kit init
 ```
 
@@ -35,7 +35,7 @@ ag-kit init --dry-run      # Preview actions without executing
 
 ## What it does
 
-Downloads and installs the `.agents` folder from [ag-kit](https://github.com/vudovn/ag-kit) containing:
+Downloads and installs the `.agents` folder from [ag-kit](https://github.com/Nack-GitHub/ag-dev) containing:
 - **20 Specialist Agents** - Role-based AI personas
 - **45 Skills** - Domain-specific knowledge modules
 - **13 Workflows** - Slash command procedures

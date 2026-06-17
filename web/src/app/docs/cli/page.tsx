@@ -249,7 +249,7 @@ export default function CLIPage() {
                         </p>
                     </Link>
                     <a
-                        href="https://github.com/vudovn/ag-kit"
+                        href="https://github.com/Nack-GitHub/ag-dev"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="group p-6 rounded-lg border border-zinc-200 dark:border-zinc-800 hover:border-zinc-300 dark:hover:border-zinc-700 hover:bg-zinc-50 dark:hover:bg-zinc-900 transition-all"
@@ -274,7 +274,7 @@ export default function CLIPage() {
                     {t.cliPage.footerWorkflows}
                 </Link>
                 <a
-                    href="https://github.com/vudovn/ag-kit"
+                    href="https://github.com/Nack-GitHub/ag-dev"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm font-medium text-zinc-900 dark:text-zinc-50 hover:underline flex items-center gap-1"
