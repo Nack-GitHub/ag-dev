@@ -117,3 +117,5 @@ AG Kit is built on production-tested agentic design patterns designed to reduce 
 AG Kit represents an original implementation of markdown-based prompt and rules engineering. It was built by analyzing production agent patterns to distill core agentic behaviors:
 *   *No proprietary code or files were copied.*
 *   All templates, rules, and scripts are rewritten as original, open-source implementations under the MIT license.
+*   **Original Repository:** [vudovn/ag-kit](https://github.com/vudovn/ag-kit.git)
+
