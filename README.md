@@ -2,16 +2,31 @@
 
 Install and initialize AG Kit to inject the `.agents/` configuration folder directly into your local project.
 
-### Method 1: On-demand Execution (Recommended)
+### Method 1: Direct Installation (Recommended)
+
+You can install `ag-kit` globally directly from the repository using this automated installer script:
 
 ```bash
-npx @nack/ag-dev init
+curl -fsSL https://raw.githubusercontent.com/Nack-GitHub/ag-dev/main/install.sh | bash
 ```
 
-### Method 2: Global Installation
+Once installed, navigate to your project root and run:
+```bash
+ag-kit init
+```
+
+### Method 2: Local Repository Installation
+
+If you have cloned the repository locally, navigate to the `cli` folder and install it:
 
 ```bash
-npm install -g @nack/ag-dev
+cd cli
+npm install
+npm install -g .
+```
+
+Once installed, you can initialize the kit in any project:
+```bash
 ag-kit init
 ```
 

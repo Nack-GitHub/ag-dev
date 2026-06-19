@@ -4,15 +4,14 @@ CLI tool to install [Antigravity Kit](https://github.com/Nack-GitHub/ag-dev) - A
 
 ## Installation
 
+Using the automated installer script:
 ```bash
-npx @nack/ag-dev init
+curl -fsSL https://raw.githubusercontent.com/Nack-GitHub/ag-dev/main/install.sh | bash
 ```
 
-Or install globally:
-
+Or install manually from your local repository clone:
 ```bash
-npm install -g @nack/ag-dev
-ag-kit init
+npm install -g .
 ```
 
 ## Commands
